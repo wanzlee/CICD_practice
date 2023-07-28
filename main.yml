@@ -1,6 +1,6 @@
 ---
 - name: Exercise
-  hosts: ec2-54-166-248-90.compute-1.amazonaws.com
+  hosts: 54.166.248.90
   user: ubuntu
   become: true
   become_method: sudo
